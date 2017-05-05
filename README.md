@@ -3,4 +3,4 @@ this project was realised in ISAMM for educatif purpose using unity3D editor, in
 
 isamm  : http://www.isa2m.rnu.tn/
 
-game play : soon ...
+game play : https://www.youtube.com/watch?v=fZyxKjL9ZIE
